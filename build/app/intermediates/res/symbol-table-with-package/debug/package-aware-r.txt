@@ -1,0 +1,4 @@
+com.younis.funny.app.funny_app
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
